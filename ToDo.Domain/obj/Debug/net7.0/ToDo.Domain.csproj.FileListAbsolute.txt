@@ -1,0 +1,12 @@
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.deps.json
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.csproj.AssemblyReference.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\refint\ToDo.Domain.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Domain\obj\Debug\net7.0\ref\ToDo.Domain.dll

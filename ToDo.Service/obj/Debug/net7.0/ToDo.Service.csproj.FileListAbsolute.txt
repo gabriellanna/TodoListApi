@@ -1,0 +1,17 @@
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Service.deps.json
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Service.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Service.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Domain.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Infra.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\bin\Debug\net7.0\ToDo.Infra.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.csproj.AssemblyReference.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.AssemblyInfoInputs.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.AssemblyInfo.cs
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.csproj.CoreCompileInputs.cache
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.csproj.CopyComplete
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\refint\ToDo.Service.dll
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ToDo.Service.pdb
+C:\Users\pietro\Desktop\Lanna\.net\udemy\ArquiteturaDDD\todo_api\src\ToDo.Service\obj\Debug\net7.0\ref\ToDo.Service.dll
